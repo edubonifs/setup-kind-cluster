@@ -16,5 +16,5 @@ make demo
 Clean up the environment with:
 
 ```shell
-make clean
+make cleanup-test-cluster
 ```
