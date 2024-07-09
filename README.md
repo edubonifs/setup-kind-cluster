@@ -21,6 +21,7 @@ make cleanup-test-cluster
 
 ## Check the environment
 ```shell
+$ sudo cp ./kind /usr/local/bin/kind
 $ kind get clusters 
 wiz-cluster-1
 ```
