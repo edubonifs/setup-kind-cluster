@@ -1,6 +1,8 @@
-# KubeCon EU 2024
+# Prerequisites
 
-Demo for https://kccnceu2024.sched.com/event/1YeSP
+Only support for Linux and Mac users.
+
+For Mac users, it is mandatory to have any docker runtime as can be Docker Desktop in my case: https://www.docker.com/products/docker-desktop/
 
 ## Usage
 
