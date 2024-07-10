@@ -21,11 +21,6 @@ make cleanup-test-cluster
 
 ## Check the environment
 ```shell
-$ sudo cp ./kind /usr/local/bin/kind
-$ kind get clusters 
-wiz-cluster-1
-```
-```shell
 % kubectl get po -A
 NAMESPACE            NAME                                                  READY   STATUS    RESTARTS   AGE
 kube-system          coredns-5d78c9869d-bqj6m                              1/1     Running   0          16m
